@@ -7,3 +7,6 @@ console.log('修复v0.2线上bug')
 function feature3(){
     console.log('feature3')
 }
+function testFeature3(){
+    console.log('test3')
+}
