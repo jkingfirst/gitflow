@@ -10,3 +10,5 @@ function feature3(){
 function testFeature3(){
     console.log('test3')
 }
+
+console.log('修复v0.30版本bug')
