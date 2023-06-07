@@ -12,3 +12,4 @@ function testFeature3(){
 }
 
 console.log('修复v0.30版本bug')
+console.log('修复v0.5版本bug')
